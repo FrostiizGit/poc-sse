@@ -1,0 +1,6 @@
+sse-bff/node_modules
+sse/.gradle
+sse/build
+sse/gradle
+sse/.fleet
+.DS_Store
